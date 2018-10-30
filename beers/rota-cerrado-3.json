@@ -1,6 +1,6 @@
 {
   "order_id": {"S": "1123"},
-  "order_date": {"S": "2018-10-29"},
+  "order_date": {"S": "2018-10-30"},
   "name": {"S": "Rota do Cerrado"},
   "price": {"N": "9.90"},
   "volume": {"N": "400"}
